@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aman Tiwari
+O- 👋 Hi, I’m Aman Tiwari
 - 👀 I’m interested in Coding and Software Hacking
 - 🌱 I’m currently learning Web Languages
-- 💞️ I’m looking to collaborate on Devs
+- 💞️ I’m looking to collaborate with Devs
 - 📫 How to reach me :- officialamantiwari000@gmail.com
 
 <!---
